@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Media Zip Upload
-Plugin URI: https://www.nitinyawalkar.com
+Plugin URI: https://github.com/yawalkar/wp-media-zip-upload
 Description: Restrict other extensions for your plugin admin upload functionality.
 Author: Nitin Yawalkar
 Author URI: https://www.nitinyawalkar.com
